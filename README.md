@@ -4,7 +4,7 @@
 
 ## 演示地址
 
-[项目地址](ebook.zerocode.top/book)
+[项目地址](http://ebook.zerocode.top/book/#/store/shelf)
 
 ## 基本架构和功能
 
